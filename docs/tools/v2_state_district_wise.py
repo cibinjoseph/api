@@ -4,10 +4,10 @@ tree = Node('(array)', [
         Node('"districtData" (array)', [
             Node('"(object)"', [
                 Node('"district" (string)'),
-                Node('"confirmed" (integer)'),
+                Node('"confirmed" (number)'),
                 Node('"lastupdatedtime" (string)'),
                 Node('"delta" (object)', [
-                    Node('"confirmed" (integer)')
+                    Node('"confirmed" (number)')
                 ])
             ])
         ])

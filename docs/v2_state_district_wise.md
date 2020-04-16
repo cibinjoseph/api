@@ -5,8 +5,8 @@
       └─ "districtData" (array)
          └─ "(object)"
             ├─ "district" (string)
-            ├─ "confirmed" (integer)
+            ├─ "confirmed" (number)
             ├─ "lastupdatedtime" (string)
             └─ "delta" (object)
-               └─ "confirmed" (integer)
+               └─ "confirmed" (number)
 ```

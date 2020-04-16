@@ -3,8 +3,8 @@
    └─ "Kerala" (object)
       └─ "districtData" (object)
          └─ "Thrissur" (object)
-            ├─ "confirmed" (integer)
+            ├─ "confirmed" (number)
             ├─ "lastupdatedtime" (string)
             └─ "delta" (object)
-               └─ "confirmed" (integer)
+               └─ "confirmed" (number)
 ```
