@@ -1,153 +1,5 @@
 [
   {
-    "update": "30 recoveries in Maharashtra\n",
-    "timestamp": 1586886258
-  },
-  {
-    "update": "13 recoveries and 3 deaths in Madhya Pradesh\n10 new cases in Andhra Pradesh\n",
-    "timestamp": 1586886865
-  },
-  {
-    "update": "2 recoveries in Punjab\n",
-    "timestamp": 1586893440
-  },
-  {
-    "update": "1 death in Meghalaya\n",
-    "timestamp": 1586927673
-  },
-  {
-    "update": "23 new cases and 1 recovery in West Bengal\n",
-    "timestamp": 1586928302
-  },
-  {
-    "update": "3 recoveries in Chhattisgarh\n",
-    "timestamp": 1586928844
-  },
-  {
-    "update": "1 new case and 1 recovery in Himachal Pradesh\n",
-    "timestamp": 1586930729
-  },
-  {
-    "update": "19 new cases in Andhra Pradesh\n",
-    "timestamp": 1586934853
-  },
-  {
-    "update": "2 deaths in Andhra Pradesh\n",
-    "timestamp": 1586935445
-  },
-  {
-    "update": "45 new cases in Gujarat\n",
-    "timestamp": 1586936044
-  },
-  {
-    "update": "2 deaths in Gujarat\n",
-    "timestamp": 1586936663
-  },
-  {
-    "update": "17 new cases in Karnataka\n4 new cases in Bihar\n",
-    "timestamp": 1586938191
-  },
-  {
-    "update": "29 new cases in Rajasthan\n",
-    "timestamp": 1586939045
-  },
-  {
-    "update": "12 new cases in Rajasthan\n",
-    "timestamp": 1586945129
-  },
-  {
-    "update": "1 death in Karnataka\n",
-    "timestamp": 1586946240
-  },
-  {
-    "update": "6 new cases and 1 recovery in Haryana\n2 recoveries in Chandigarh\n",
-    "timestamp": 1586951664
-  },
-  {
-    "update": "117 new cases in Maharashtra\n4 recoveries in Karnataka\n1 recovery in Tripura\n",
-    "timestamp": 1586952391
-  },
-  {
-    "update": "2 new cases in Karnataka\n1 recovery in Arunachal Pradesh\n",
-    "timestamp": 1586952873
-  },
-  {
-    "update": "67 new cases and 5 recoveries in Uttar Pradesh\n5 recoveries in Karnataka\n",
-    "timestamp": 1586953443
-  },
-  {
-    "update": "3 deaths in Uttar Pradesh\n1 new case in Kerala\n1 death in Karnataka\n6 new cases in Meghalaya\n",
-    "timestamp": 1586954058
-  },
-  {
-    "update": "7 recoveries in Kerala\n1 recovery in Haryana\n2 new cases in Punjab\n",
-    "timestamp": 1586954643
-  },
-  {
-    "update": "38 new cases in Tamil Nadu\n8 new cases in Uttar Pradesh\n",
-    "timestamp": 1586955279
-  },
-  {
-    "update": "35 recoveries and 2 deaths in Tamil Nadu\n",
-    "timestamp": 1586955962
-  },
-  {
-    "update": "2 recoveries in Tamil Nadu\n",
-    "timestamp": 1586956452
-  },
-  {
-    "update": "22 new cases in Jammu and Kashmir\n",
-    "timestamp": 1586957649
-  },
-  {
-    "update": "2 recoveries in Uttar Pradesh\n",
-    "timestamp": 1586960661
-  },
-  {
-    "update": "6 recoveries in Jammu and Kashmir\n4 recoveries in Chhattisgarh\n1 recovery in Goa\n",
-    "timestamp": 1586961853
-  },
-  {
-    "update": "115 new cases in Maharashtra\n2 recoveries in Assam\n",
-    "timestamp": 1586962524
-  },
-  {
-    "update": "36 recoveries and 9 deaths in Maharashtra\n197 new cases in Madhya Pradesh\n71 new cases, 5 recoveries and 3 deaths in Gujarat\n6 new cases and 8 recoveries in Telangana\n23 new cases, 4 recoveries and 3 deaths in Andhra Pradesh\n2 new cases in Himachal Pradesh\n",
-    "timestamp": 1586965194
-  },
-  {
-    "update": "1 new case in Jharkhand\n",
-    "timestamp": 1586966788
-  },
-  {
-    "update": "17 new cases and 10 recoveries in Delhi\n",
-    "timestamp": 1586970873
-  },
-  {
-    "update": "2 deaths in Delhi\n",
-    "timestamp": 1586971453
-  },
-  {
-    "update": "2 new cases in Bihar\n",
-    "timestamp": 1586972051
-  },
-  {
-    "update": "30 new cases in Rajasthan\n",
-    "timestamp": 1586972668
-  },
-  {
-    "update": "1 recovery in Odisha\n",
-    "timestamp": 1586975643
-  },
-  {
-    "update": "1 new case in Ladakh\n",
-    "timestamp": 1587008670
-  },
-  {
-    "update": "25 new cases in Rajasthan\n",
-    "timestamp": 1587009253
-  },
-  {
     "update": "42 new cases in Madhya Pradesh\n",
     "timestamp": 1587009931
   },
@@ -198,5 +50,153 @@
   {
     "update": "1 death in Uttar Pradesh\n",
     "timestamp": 1587032660
+  },
+  {
+    "update": "9 new cases in Andhra Pradesh\n1 recovery in Andaman and Nicobar Islands\n",
+    "timestamp": 1587036241
+  },
+  {
+    "update": "6 recoveries in Chhattisgarh\n2 new cases and 3 recoveries in Assam\n",
+    "timestamp": 1587037129
+  },
+  {
+    "update": "14 new cases in Jammu and Kashmir\n",
+    "timestamp": 1587037448
+  },
+  {
+    "update": "135 new cases in Madhya Pradesh\n",
+    "timestamp": 1587038073
+  },
+  {
+    "update": "2 new cases and 2 recoveries in Karnataka\n",
+    "timestamp": 1587038820
+  },
+  {
+    "update": "7 new cases in Kerala\n8 recoveries in Bihar\n",
+    "timestamp": 1587040502
+  },
+  {
+    "update": "3 recoveries in Telangana\n27 recoveries in Kerala\n3 recoveries in Himachal Pradesh\n",
+    "timestamp": 1587041077
+  },
+  {
+    "update": "2 recoveries in Jammu and Kashmir\n",
+    "timestamp": 1587042380
+  },
+  {
+    "update": "11 new cases, 2 recoveries and 1 death in Punjab\n",
+    "timestamp": 1587042843
+  },
+  {
+    "update": "5 new cases and 6 recoveries in Madhya Pradesh\n2 new cases and 3 recoveries in Haryana\n",
+    "timestamp": 1587044686
+  },
+  {
+    "update": "38 new cases and 11 recoveries in Uttar Pradesh\n",
+    "timestamp": 1587045261
+  },
+  {
+    "update": "2 deaths in West Bengal\n",
+    "timestamp": 1587045969
+  },
+  {
+    "update": "1 death in West Bengal\n6 new cases in Bihar\n",
+    "timestamp": 1587047056
+  },
+  {
+    "update": "1 new case in Jharkhand\n",
+    "timestamp": 1587047661
+  },
+  {
+    "update": "50 new cases in Telangana\n",
+    "timestamp": 1587048905
+  },
+  {
+    "update": "58 new cases in Gujarat\n66 recoveries in Telangana\n",
+    "timestamp": 1587049525
+  },
+  {
+    "update": "9 recoveries in Gujarat\n",
+    "timestamp": 1587050078
+  },
+  {
+    "update": "32 new cases in Uttar Pradesh\n",
+    "timestamp": 1587050657
+  },
+  {
+    "update": "121 new cases in Maharashtra\n",
+    "timestamp": 1587051842
+  },
+  {
+    "update": "5 recoveries and 7 deaths in Maharashtra\n44 new cases in Madhya Pradesh\n",
+    "timestamp": 1587053178
+  },
+  {
+    "update": "27 new cases in Rajasthan\n",
+    "timestamp": 1587055457
+  },
+  {
+    "update": "62 new cases and 5 deaths in Delhi\n",
+    "timestamp": 1587056071
+  },
+  {
+    "update": "2 deaths in Madhya Pradesh\n17 recoveries in Rajasthan\n",
+    "timestamp": 1587056749
+  },
+  {
+    "update": "1 death in Delhi\n3 new cases in Bihar\n",
+    "timestamp": 1587059068
+  },
+  {
+    "update": "11 recoveries in Delhi\n1 recovery in Telangana\n",
+    "timestamp": 1587059663
+  },
+  {
+    "update": "1 death in Uttar Pradesh\n2 new cases in Meghalaya\n",
+    "timestamp": 1587060850
+  },
+  {
+    "update": "1 new case in West Bengal\n",
+    "timestamp": 1587092839
+  },
+  {
+    "update": "23 new cases and 9 recoveries in West Bengal\n",
+    "timestamp": 1587093249
+  },
+  {
+    "update": "3 new cases in Chhattisgarh\n",
+    "timestamp": 1587098859
+  },
+  {
+    "update": "38 new cases in Rajasthan\n",
+    "timestamp": 1587099263
+  },
+  {
+    "update": "92 new cases, 1 recovery and 2 deaths in Gujarat\n",
+    "timestamp": 1587104055
+  },
+  {
+    "update": "38 new cases in Andhra Pradesh\n",
+    "timestamp": 1587104684
+  },
+  {
+    "update": "15 recoveries in Andhra Pradesh\n1 new case in Andaman and Nicobar Islands\n",
+    "timestamp": 1587105382
+  },
+  {
+    "update": "38 new cases in Karnataka\n",
+    "timestamp": 1587110167
+  },
+  {
+    "update": "7 new cases in Haryana\n",
+    "timestamp": 1587123303
+  },
+  {
+    "update": "24 new cases, 19 recoveries and 6 deaths in Rajasthan\n17 recoveries in Haryana\n",
+    "timestamp": 1587123865
+  },
+  {
+    "update": "1 death in Jammu and Kashmir\n",
+    "timestamp": 1587124463
   }
 ]

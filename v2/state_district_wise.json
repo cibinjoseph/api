@@ -20,7 +20,7 @@
       },
       {
         "district": "Kasaragod",
-        "confirmed": 167,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -36,7 +36,7 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 78,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -84,7 +84,7 @@
       },
       {
         "district": "Kozhikode",
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -185,7 +185,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1534,
+        "confirmed": 1596,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 16,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -443,18 +443,18 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 483,
+        "confirmed": 492,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       {
@@ -467,10 +467,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 116,
+        "confirmed": 144,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 28
         }
       },
       {
@@ -515,7 +515,7 @@
       },
       {
         "district": "Ajmer",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -523,18 +523,10 @@
       },
       {
         "district": "Evacuees*",
-        "confirmed": 46,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Evacuees",
-        "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -547,10 +539,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 71,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 13
         }
       },
       {
@@ -571,7 +563,7 @@
       },
       {
         "district": "Bharatpur",
-        "confirmed": 20,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -582,7 +574,7 @@
         "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -611,10 +603,10 @@
       },
       {
         "district": "Nagaur",
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -627,18 +619,18 @@
       },
       {
         "district": "Kota",
-        "confirmed": 86,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 6
         }
       },
       {
         "district": "Jhalawar",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -696,10 +688,10 @@
       },
       {
         "district": "Panchkula",
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 2
         }
       },
       {
@@ -715,7 +707,7 @@
         "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -752,10 +744,10 @@
       },
       {
         "district": "Nuh",
-        "confirmed": 48,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1181,7 +1173,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 8,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1223,7 +1215,7 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 219,
+        "confirmed": 222,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1239,7 +1231,7 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 126,
+        "confirmed": 127,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1247,7 +1239,7 @@
       },
       {
         "district": "Tirunelveli",
-        "confirmed": 59,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1255,7 +1247,7 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 79,
+        "confirmed": 80,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1263,7 +1255,7 @@
       },
       {
         "district": "Madurai",
-        "confirmed": 41,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1279,7 +1271,7 @@
       },
       {
         "district": "Salem",
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1295,7 +1287,7 @@
       },
       {
         "district": "Thanjavur",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1303,7 +1295,7 @@
       },
       {
         "district": "Vellore",
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1335,7 +1327,7 @@
       },
       {
         "district": "Viluppuram",
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1343,7 +1335,7 @@
       },
       {
         "district": "Namakkal",
-        "confirmed": 45,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1407,7 +1399,7 @@
       },
       {
         "district": "Ramanathapuram",
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1415,7 +1407,7 @@
       },
       {
         "district": "Thiruvallur",
-        "confirmed": 41,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1484,14 +1476,6 @@
         "delta": {
           "confirmed": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 25,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 25
-        }
       }
     ]
   },
@@ -1508,7 +1492,7 @@
       },
       {
         "district": "Srinagar",
-        "confirmed": 76,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1516,7 +1500,7 @@
       },
       {
         "district": "Bandipore",
-        "confirmed": 56,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1532,7 +1516,7 @@
       },
       {
         "district": "Badgam",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1580,7 +1564,7 @@
       },
       {
         "district": "Ganderbal",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1625,18 +1609,18 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 87,
+        "confirmed": 96,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 9
         }
       },
       {
         "district": "Kalaburagi",
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1649,10 +1633,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 12
         }
       },
       {
@@ -1673,18 +1657,18 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Chikkaballapura",
-        "confirmed": 10,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1713,18 +1697,18 @@
       },
       {
         "district": "Ballari",
-        "confirmed": 6,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
         "district": "Bidar",
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1740,7 +1724,7 @@
         "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 0
         }
       },
       {
@@ -1756,23 +1740,23 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Mandya",
-        "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Vijayapura",
-        "confirmed": 17,
+        "district": "Mandya",
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "Vijayapura",
+        "confirmed": 19,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -1782,26 +1766,26 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 374,
+        "confirmed": 430,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 0
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 1863,
+        "confirmed": 2003,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 107
+          "confirmed": 0
         }
       },
       {
         "district": "Nagpur",
-        "confirmed": 55,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 0
         }
       },
       {
@@ -1809,15 +1793,15 @@
         "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
         "district": "Thane",
-        "confirmed": 285,
+        "confirmed": 295,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
+          "confirmed": 0
         }
       },
       {
@@ -1825,7 +1809,7 @@
         "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -1854,10 +1838,10 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 36,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -1918,7 +1902,7 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 17,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1926,10 +1910,10 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 50,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -1982,7 +1966,7 @@
       },
       {
         "district": "Akola",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2006,15 +1990,7 @@
       },
       {
         "district": "Solapur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 232,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2025,7 +2001,15 @@
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 121,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
@@ -2067,7 +2051,7 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 25,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2083,7 +2067,7 @@
       },
       {
         "district": "Patiala",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2107,7 +2091,7 @@
       },
       {
         "district": "Pathankot",
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2184,10 +2168,10 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 59,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
@@ -2216,47 +2200,47 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 45,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Chittoor",
-        "confirmed": 23,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "Guntur",
-        "confirmed": 122,
+        "confirmed": 126,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 109,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       {
         "district": "Anantapur",
-        "confirmed": 21,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
         "district": "West Godavari",
-        "confirmed": 31,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2264,10 +2248,10 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -2309,7 +2293,7 @@
       },
       {
         "district": "Haridwar",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2318,14 +2302,6 @@
       {
         "district": "Almora",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2500,10 +2476,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 204,
+        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 18
+          "confirmed": 24
         }
       }
     ]
@@ -2558,7 +2534,7 @@
       },
       {
         "district": "Korba",
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2571,34 +2547,34 @@
     "districtData": [
       {
         "district": "Rajkot",
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       {
         "district": "Surat",
-        "confirmed": 86,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 35
+          "confirmed": 14
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 492,
+        "confirmed": 590,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 42
+          "confirmed": 45
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 127,
+        "confirmed": 137,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 9
         }
       },
       {
@@ -2606,7 +2582,7 @@
         "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -2651,26 +2627,26 @@
       },
       {
         "district": "Panch Mahals",
-        "confirmed": 6,
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Patan",
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       {
-        "district": "Patan",
-        "confirmed": 14,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Chota Udaipur",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2691,10 +2667,10 @@
       },
       {
         "district": "Anand",
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 1
         }
       },
       {
@@ -2707,18 +2683,18 @@
       },
       {
         "district": "Dahod",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Bharuch",
-        "confirmed": 13,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -2726,20 +2702,20 @@
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
-        }
-      },
-      {
-        "district": "Botad",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
           "confirmed": 0
         }
       },
       {
+        "district": "Botad",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      {
         "district": "Kheda",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -2747,10 +2723,26 @@
       },
       {
         "district": "Narmada",
-        "confirmed": 6,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 5
+        }
+      },
+      {
+        "district": "Aravalli",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mahisagar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2813,7 +2805,7 @@
     "districtData": [
       {
         "district": "Jabalpur",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2821,7 +2813,7 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 167,
+        "confirmed": 196,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2829,10 +2821,10 @@
       },
       {
         "district": "Indore",
-        "confirmed": 586,
+        "confirmed": 707,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 42
+          "confirmed": 0
         }
       },
       {
@@ -2925,7 +2917,7 @@
       },
       {
         "district": "Khandwa",
-        "confirmed": 16,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2933,7 +2925,7 @@
       },
       {
         "district": "Dhar",
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2949,7 +2941,7 @@
       },
       {
         "district": "Raisen",
-        "confirmed": 4,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2957,7 +2949,7 @@
       },
       {
         "district": "Dewas",
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2973,7 +2965,7 @@
       },
       {
         "district": "Shajapur",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2989,7 +2981,7 @@
       },
       {
         "district": "Mandsaur",
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3021,7 +3013,7 @@
       },
       {
         "district": "Agar Malwa",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3034,7 +3026,7 @@
     "districtData": [
       {
         "district": "Munger",
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3133,7 +3125,15 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
@@ -3214,10 +3214,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -3267,6 +3267,14 @@
       },
       {
         "district": "Simdega",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Dhanbad",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -3336,7 +3344,7 @@
       },
       {
         "district": "Morigaon",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -3390,19 +3398,6 @@
     ]
   },
   {
-    "state": "Dadra and Nagar Haveli",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
     "state": "Tripura",
     "districtData": [
       {
@@ -3442,6 +3437,14 @@
       {
         "district": "East Khasi Hills",
         "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
