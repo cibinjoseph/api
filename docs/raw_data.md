@@ -1,3 +1,10 @@
+## API Documentation
+
+**Dataset**: Raw data
+**Link**: [https://api.covid19india.org/raw_data.json](https://api.covid19india.org/raw_data.json)  
+**Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
+
+### JSON Hierarchy
 ```bash
 └─ (object)
    └─ "raw_data" (array)
@@ -24,6 +31,8 @@
          └─ "typeoftransmission" (string)
 ```
 
+
+### JSON Field details
 | Field | Data type | Notes |
 | --- | --- | --- |
 | `raw_data` | `array` | - |

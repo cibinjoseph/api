@@ -1,3 +1,10 @@
+## API Documentation
+
+**Dataset**: National time series, statewise stats and test counts  
+**Link**: [https://api.covid19india.org/data.json](https://api.covid19india.org/data.json)  
+**Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
+
+### JSON Hierarchy
 ```bash
 └─ (object)
    ├─ "cases_time_series" (array)
@@ -34,6 +41,8 @@
          └─ "updatetimestamp" (string)
 ```
 
+
+### JSON Field details
 | Field | Data type | Notes |
 | --- | --- | --- |
 | `cases_time_series` | `array` | - |

@@ -1,3 +1,10 @@
+## API Documentation
+
+**Dataset**: Deaths and Recoveries
+**Link**: [https://api.covid19india.org/deaths_recoveries.json](https://api.covid19india.org/deaths_recoveries.json)  
+**Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
+
+### JSON Hierarchy
 ```bash
 └─ (object)
    └─ "deaths_recoveries" (array)
@@ -20,6 +27,7 @@
 ```
 
 
+### JSON Field details
 | Field | Data type | Notes |
 | --- | --- | --- |
 | `deaths_recoveries` | `array` | - |

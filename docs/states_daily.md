@@ -1,3 +1,10 @@
+## API Documentation
+
+**Dataset**: States - Daily changes
+**Link**: [https://api.covid19india.org/states_daily.json](https://api.covid19india.org/states_daily.json)  
+**Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
+
+### JSON Hierarchy
 ```bash
 └─ (object)
    └─ "states_daily" (array)
@@ -44,6 +51,8 @@
          └─ "wb" (string)
 ```
 
+
+### JSON Field details
 | Field | Data type | Notes |
 | --- | --- | --- |
 | `states_daily` | `array` | - |
