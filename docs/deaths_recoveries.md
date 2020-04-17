@@ -18,3 +18,23 @@
          ├─ "state" (string)
          └─ "statecode" (string)
 ```
+
+
+| Field | Data type | Notes |
+| --- | --- | --- |
+| `deaths_recoveries` | `array` | - |
+| `agebracket` | `string` | - |
+| `city` | `string` | - |
+| `date` | `string` | - |
+| `district` | `string` | - |
+| `gender` | `string` | - |
+| `nationality` | `string` | - |
+| `notes` | `string` | - |
+| `patientnumbercouldbemappedlater` | `string` | - |
+| `patientstatus` | `string` | - |
+| `slno` | `string` | - |
+| `source1` | `string` | - |
+| `source2` | `string` | - |
+| `source3` | `string` | - |
+| `state` | `string` | - |
+| `statecode` | `string` | - |

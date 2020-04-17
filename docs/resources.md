@@ -10,3 +10,14 @@
          ├─ "phonenumber" (string)
          └─ "state" (string)
 ```
+
+| Field | Data type | Notes |
+| --- | --- | --- |
+| `resources` | `array` | - |
+| `category` | `string` | - |
+| `city` | `string` | - |
+| `contact` | `string` | - |
+| `descriptionandorserviceprovided` | `string` | - |
+| `nameoftheorganisation` | `string` | - |
+| `phonenumber` | `string` | - |
+| `state` | `string` | - |
