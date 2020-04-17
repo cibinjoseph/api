@@ -1,6 +1,6 @@
 ## API Documentation
 
-**Dataset**: State-district-wise V2
+**Dataset**: State-district-wise V2  
 **Link**: [https://api.covid19india.org/v2/state_district_wise.json](https://api.covid19india.org/v2/state_district_wise.json)  
 **Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
 

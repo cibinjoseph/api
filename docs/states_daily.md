@@ -1,6 +1,6 @@
 ## API Documentation
 
-**Dataset**: States - Daily changes
+**Dataset**: States - Daily changes  
 **Link**: [https://api.covid19india.org/states_daily.json](https://api.covid19india.org/states_daily.json)  
 **Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
 
