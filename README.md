@@ -9,14 +9,14 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India.
 | National time series, statewise stats and test counts | https://api.covid19india.org/data.json            | [Link](docs/data.md) |
 | State-district-wise                                   | https://api.covid19india.org/state_district_wise.json | [Link](docs/state_district_wise.md) |
 | State-district-wise V2                                | https://api.covid19india.org/v2/state_district_wise.json | [Link](docs/v2_state_district_wise.md) |
-| Travel history (No more updated)                      | https://api.covid19india.org/travel_history.json      | [Link](docs/travel_history.md) |
+| Travel history (No more updated)                      | https://api.covid19india.org/travel_history.json      | - |
 | Raw data                                              | https://api.covid19india.org/raw_data.json            | [Link](docs/raw_data.md) |
 | States Daily changes                                  | https://api.covid19india.org/states_daily.json        | [Link](docs/states_daily.md) |
 | States Daily in csv                                   | http://api.covid19india.org/states_daily_csv/confirmed.csv | - |
 |                                                       | https://api.covid19india.org/states_daily_csv/deceased.csv | - |
 |                                                       | https://api.covid19india.org/states_daily_csv/recovered.csv | - |
 | Deaths and Recoveries                                 | https://api.covid19india.org/deaths_recoveries.json | [Link](docs/deaths_recoveries.md) |
-| Essentials and resources                              | https://api.covid19india.org/resources/resources.json | [Link](docs/resources/resources.md) |
+| Essentials and resources                              | https://api.covid19india.org/resources/resources.json | [Link](docs/resources.md) |
 
 
 ## Projects Using This API
