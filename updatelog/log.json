@@ -1,25 +1,5 @@
 [
   {
-    "update": "42 new cases in Madhya Pradesh\n",
-    "timestamp": 1587009931
-  },
-  {
-    "update": "18 new cases and 5 recoveries in West Bengal\n",
-    "timestamp": 1587011054
-  },
-  {
-    "update": "1 death in Karnataka\n",
-    "timestamp": 1587014656
-  },
-  {
-    "update": "3 deaths in Gujarat\n",
-    "timestamp": 1587017142
-  },
-  {
-    "update": "105 new cases in Gujarat\n",
-    "timestamp": 1587017769
-  },
-  {
     "update": "17 new cases in Karnataka\n",
     "timestamp": 1587020720
   },
@@ -198,5 +178,25 @@
   {
     "update": "1 death in Jammu and Kashmir\n",
     "timestamp": 1587124463
+  },
+  {
+    "update": "6 new cases in Karnataka\n",
+    "timestamp": 1587125207
+  },
+  {
+    "update": "6 recoveries in Karnataka\n3 new cases in Uttarakhand\n",
+    "timestamp": 1587125721
+  },
+  {
+    "update": "1 new case and 10 recoveries in Kerala\n",
+    "timestamp": 1587127448
+  },
+  {
+    "update": "56 new cases in Tamil Nadu\n41 new cases and 6 recoveries in Uttar Pradesh\n14 new cases in Punjab\n",
+    "timestamp": 1587129245
+  },
+  {
+    "update": "103 recoveries in Tamil Nadu\n1 recovery in Punjab\n",
+    "timestamp": 1587129890
   }
 ]
