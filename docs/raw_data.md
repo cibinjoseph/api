@@ -1,14 +1,14 @@
-## API Documentation
+## API Documentation  
 
 **Dataset**: Raw data  
-**Link**: [https://api.covid19india.org/raw_data.json](https://api.covid19india.org/raw_data.json)  
 **Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  
+**API Link**: [https://api.covid19india.org/raw_data.json](https://api.covid19india.org/raw_data.json)  
 
 ### JSON Hierarchy
 ```bash
-└─ (object)
+└─  (object)
    └─ "raw_data" (array)
-      └─ (object)
+      └─  (object)
          ├─ "agebracket" (string)
          ├─ "backupnotes" (string)
          ├─ "contractedfromwhichpatientsuspected" (string)
@@ -29,30 +29,32 @@
          ├─ "statepatientnumber" (string)
          ├─ "statuschangedate" (string)
          └─ "typeoftransmission" (string)
+
 ```
 
 
 ### JSON Field details
-| Field | Data type | Notes |
-| --- | --- | --- |
-| `raw_data` | `array` | - |
-| `agebracket` | `string` | - |
-| `backupnotes` | `string` | - |
-| `contractedfromwhichpatientsuspected` | `string` | - |
-| `currentstatus` | `string` | - |
-| `dateannounced` | `string` | - |
-| `detectedcity` | `string` | - |
-| `detecteddistrict` | `string` | - |
-| `detectedstate` | `string` | - |
-| `estimatedonsetdate` | `string` | - |
-| `gender` | `string` | - |
-| `nationality` | `string` | - |
-| `notes` | `string` | - |
-| `patientnumber` | `string` | - |
-| `source1` | `string` | - |
-| `source2` | `string` | - |
-| `source3` | `string` | - |
-| `statecode` | `string` | - |
-| `statepatientnumber` | `string` | - |
-| `statuschangedate` | `string` | - |
-| `typeoftransmission` | `string` | - |
+| Field | Data type | Details |
+| ----- | --------- | ------- |
+| `raw_data` |  `array` | - |
+| `agebracket` |  `string` | - |
+| `backupnotes` |  `string` | - |
+| `contractedfromwhichpatientsuspected` |  `string` | - |
+| `currentstatus` |  `string` | - |
+| `dateannounced` |  `string` | - |
+| `detectedcity` |  `string` | - |
+| `detecteddistrict` |  `string` | - |
+| `detectedstate` |  `string` | - |
+| `estimatedonsetdate` |  `string` | - |
+| `gender` |  `string` | - |
+| `nationality` |  `string` | - |
+| `notes` |  `string` | - |
+| `patientnumber` |  `string` | - |
+| `source1` |  `string` | - |
+| `source2` |  `string` | - |
+| `source3` |  `string` | - |
+| `statecode` |  `string` | - |
+| `statepatientnumber` |  `string` | - |
+| `statuschangedate` |  `string` | - |
+| `typeoftransmission` |  `string` | - |
+

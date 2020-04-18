@@ -1,37 +1,50 @@
 #!/usr/bin/python3
 """ A python code to generate documentation for the JSON API links """
-""" Usage: Create the template python files using Node class and """
-""" pass the file as argument to this code to generate """
-""" correspondingly named Markdown files """
-import sys
+""" Usage: Add the link to the variable called api """
+""" Author: Cibin joseph https://github.com/cibinjoseph"""
 
-class Node:
-    """ Define a node object for use in creating tree like structure """
-    def __init__(self, value=None, children=None):
-        if children is None:
-            children = []
-        self.value, self.children = value, children
+import requests
+import json
+import json2tree as j2t
 
-def pprint_tree(node, file=None, _prefix="", _last=True):
-    """ Pretty print tree to stdout or file object """
-    print(_prefix, "└─ " if _last else "├─ ", node.value, sep="", file=file)
-    _prefix += "   " if _last else "│  "
-    child_count = len(node.children)
-    for i, child in enumerate(node.children):
-        _last = i == (child_count - 1)
-        pprint_tree(child, file, _prefix, _last)
+# Dict in the format <filename>: <url>
+api = {'data.md': 'https://api.covid19india.org/data.json', \
+       'state_district_wise.md': 'https://api.covid19india.org/state_district_wise.json', \
+       'v2_state_district_wise.md': 'https://api.covid19india.org/v2/state_district_wise.json', \
+       'raw_data.md': 'https://api.covid19india.org/raw_data.json', \
+       'states_daily.md': 'https://api.covid19india.org/states_daily.json', \
+       'deaths_recoveries.md': 'https://api.covid19india.org/deaths_recoveries.json', \
+       'resources.md': 'https://api.covid19india.org/resources/resources.json'}
 
+header = '## API Documentation  \n\n' + \
+        '**Dataset**:  \n' + \
+        '**Crowdsourced by**: [COVID19INDIA](https://www.covid19india.org)  '
 
-# Get filenames as argument (MUST END IN .py)
-for filename in sys.argv[1:]:
-    # Extract filename without .py extension to append .md
-    name = filename[:-3]
-    mdfile = open(name + '.md', 'w')
+for item in api:
+    filename = item
+    link = api[item]
+    try:
+        jsonData = requests.get(link).json()
+        print('Stats retrieval: SUCCESS')
+        tree = j2t.json2tree(jsonData)
+        table = j2t.json2table(jsonData)
 
-    # Read .py template file to obtain variable 'tree' that has structure data
-    exec(compile(open(filename, "rb").read(), filename, 'exec'))
+        # Pretty print to file with .md extension
+        with open(filename, 'w') as mdfile:
+            print(header, file=mdfile)
+            print('**API Link**: [' + link + '](' + link + ')  \n', file=mdfile)
+            print('### JSON Hierarchy', file=mdfile)
+            print('```bash', file=mdfile)
+            print(tree, file=mdfile)
+            print('```', file=mdfile)
+            print('\n', file=mdfile)
+            print('### JSON Field details', file=mdfile)
+            print(table, file=mdfile)
 
-    # Pretty print to file with .md extension
-    print('```bash', file=mdfile)
-    pprint_tree(tree, file=mdfile)
-    print('```', file=mdfile)
+        # Print status
+        print('Generated template for file: ' + filename)
+
+    except:
+        print('Stats retrieval: FAILED')
+        print('No internet connection or invalid link')
+        raise ConnectionError
