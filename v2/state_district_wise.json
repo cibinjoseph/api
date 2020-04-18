@@ -185,10 +185,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1663,
+        "confirmed": 1849,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 186
         }
       }
     ]
@@ -198,10 +198,10 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 417,
+        "confirmed": 448,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       {
@@ -222,10 +222,10 @@
       },
       {
         "district": "Ranga Reddy",
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -238,10 +238,10 @@
       },
       {
         "district": "Rajanna Sircilla",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -366,18 +366,18 @@
       },
       {
         "district": "Jogulamba Gadwal",
-        "confirmed": 19,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
         "district": "Nalgonda",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -443,10 +443,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 497,
+        "confirmed": 519,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 25
         }
       },
       {
@@ -467,10 +467,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 156,
+        "confirmed": 180,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 26
         }
       },
       {
@@ -515,10 +515,10 @@
       },
       {
         "district": "Ajmer",
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       {
@@ -539,10 +539,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 93,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -563,10 +563,10 @@
       },
       {
         "district": "Bharatpur",
-        "confirmed": 70,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 27
+          "confirmed": 42
         }
       },
       {
@@ -603,10 +603,10 @@
       },
       {
         "district": "Nagaur",
-        "confirmed": 26,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 17
         }
       },
       {
@@ -1109,10 +1109,10 @@
       },
       {
         "district": "Sitapur",
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1209,14 +1209,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 3
         }
       }
     ]
@@ -2123,10 +2115,10 @@
       },
       {
         "district": "Patiala",
-        "confirmed": 11,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
@@ -2264,10 +2256,10 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 70,
+        "confirmed": 69,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 18
+          "confirmed": 17
         }
       },
       {
@@ -2280,7 +2272,7 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 126,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2288,10 +2280,10 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 130,
+        "confirmed": 132,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         }
       },
       {
@@ -3101,10 +3093,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 45,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 92
         }
       }
     ]

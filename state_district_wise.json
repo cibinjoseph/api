@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1663,
+        "confirmed": 1849,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 186
         }
       }
     }
@@ -171,10 +171,10 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 417,
+        "confirmed": 448,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       "Karimnagar": {
@@ -192,10 +192,10 @@
         }
       },
       "Ranga Reddy": {
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Medchal Malkajgiri": {
@@ -206,10 +206,10 @@
         }
       },
       "Rajanna Sircilla": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Khammam": {
@@ -318,17 +318,17 @@
         }
       },
       "Jogulamba Gadwal": {
-        "confirmed": 19,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Nalgonda": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nagarkurnool": {
@@ -385,10 +385,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 497,
+        "confirmed": 519,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 25
         }
       },
       "Jhunjhunu": {
@@ -406,10 +406,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 156,
+        "confirmed": 180,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 26
         }
       },
       "Pali": {
@@ -448,10 +448,10 @@
         }
       },
       "Ajmer": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Evacuees*": {
@@ -469,10 +469,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 93,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dhaulpur": {
@@ -490,10 +490,10 @@
         }
       },
       "Bharatpur": {
-        "confirmed": 70,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 27
+          "confirmed": 42
         }
       },
       "Bikaner": {
@@ -525,10 +525,10 @@
         }
       },
       "Nagaur": {
-        "confirmed": 26,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 17
         }
       },
       "Jaisalmer": {
@@ -967,10 +967,10 @@
         }
       },
       "Sitapur": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Muzaffarnagar": {
@@ -1055,13 +1055,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 3
         }
       }
     }
@@ -1852,10 +1845,10 @@
         }
       },
       "Patiala": {
-        "confirmed": 11,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       "Rupnagar": {
@@ -1975,10 +1968,10 @@
         }
       },
       "Krishna": {
-        "confirmed": 70,
+        "confirmed": 69,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 18
+          "confirmed": 17
         }
       },
       "Chittoor": {
@@ -1989,17 +1982,17 @@
         }
       },
       "Guntur": {
-        "confirmed": 126,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Kurnool": {
-        "confirmed": 130,
+        "confirmed": 132,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         }
       },
       "Anantapur": {
@@ -2704,10 +2697,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 45,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 92
         }
       }
     }
