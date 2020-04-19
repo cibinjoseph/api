@@ -759,19 +759,19 @@
 		{
 			"negative": "",
 			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
+			"numicubeds": "116",
+			"numisolationbeds": "2344",
+			"numventilators": "50",
 			"positive": "86",
 			"positiveratebytests": "",
 			"source": "https://twitter.com/sanjayjavin/status/1251744842192834561/photo/1",
 			"source2": "",
 			"state": "Bihar",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "644",
+			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "10637",
-			"unconfirmed": "",
+			"unconfirmed": "644",
 			"updatedon": "19/04/2020"
 		},
 		{
@@ -991,6 +991,24 @@
 			"updatedon": "18/04/2020"
 		},
 		{
+			"negative": "388",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "26",
+			"positiveratebytests": "",
+			"source": "http://chdcovid19.in/",
+			"source2": "",
+			"state": "Chandigarh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "430",
+			"unconfirmed": "15",
+			"updatedon": "19/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1006,7 +1024,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "921",
@@ -1187,6 +1205,24 @@
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "19/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Chhattisgarh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "",
@@ -1608,6 +1644,24 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
+			"positive": "7",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/DHS_Goa/status/1251858305669980160",
+			"source2": "",
+			"state": "Goa",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "826",
+			"unconfirmed": "",
+			"updatedon": "19/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
 			"positive": "",
 			"positiveratebytests": "",
 			"source": "",
@@ -1618,7 +1672,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "3905",
@@ -1801,20 +1855,20 @@
 			"updatedon": "18/04/2020"
 		},
 		{
-			"negative": "26608",
+			"negative": "27361",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "1604",
+			"positive": "1743",
 			"positiveratebytests": "",
-			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1904192020121125656.pdf",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1904192020081511588.pdf",
 			"source2": "",
 			"state": "Gujarat",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "18540",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "28212",
+			"totaltested": "29104",
 			"unconfirmed": "0",
 			"updatedon": "19/04/2020"
 		},
@@ -2071,21 +2125,21 @@
 			"updatedon": "18/04/2020"
 		},
 		{
-			"negative": "8601",
+			"negative": "10230",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "246",
+			"positive": "250",
 			"positiveratebytests": "",
-			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%20-Morning-%2019-04-2020.pdf",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%2019th%20Aprilevening.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "10922",
-			"unconfirmed": "2089",
+			"totaltested": "12687",
+			"unconfirmed": "2221",
 			"updatedon": "19/04/2020"
 		},
 		{
@@ -2251,7 +2305,25 @@
 			"updatedon": "17/04/2020"
 		},
 		{
-			"negative": "1973",
+			"negative": "2091",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "39",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/nhm_hp/status/1251554269267779584?s=19",
+			"source2": "",
+			"state": "Himachal Pradesh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2207",
+			"unconfirmed": "77",
+			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "2183",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -2264,9 +2336,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "2240",
-			"unconfirmed": "228",
-			"updatedon": "18/04/2020"
+			"totaltested": "2556",
+			"unconfirmed": "344",
+			"updatedon": "19/04/2020"
 		},
 		{
 			"negative": "",
@@ -2284,7 +2356,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "1429",
@@ -2881,6 +2953,24 @@
 			"updatedon": "18/04/2020"
 		},
 		{
+			"negative": "17662",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "390",
+			"positiveratebytests": "",
+			"source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/19-04-2020-05-00-English.pdf",
+			"source2": "",
+			"state": "Karnataka",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "21367",
+			"unconfirmed": "",
+			"updatedon": "19/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2896,7 +2986,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "8586",
@@ -3241,6 +3331,24 @@
 			"updatedon": "18/04/2020"
 		},
 		{
+			"negative": "18547",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "401",
+			"positiveratebytests": "",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "",
+			"state": "Kerala",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "19351",
+			"unconfirmed": "403",
+			"updatedon": "19/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -3256,7 +3364,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "",
@@ -3572,7 +3680,7 @@
 			"numventilators": "",
 			"positive": "1402",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/JansamparkMP/status/1251528687935057920/photo/1",
 			"source2": "",
 			"state": "Madhya Pradesh",
 			"testsperthousand": "",
@@ -3581,6 +3689,24 @@
 			"totaltested": "22569",
 			"unconfirmed": "7251",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "16428",
+			"numcallsstatehelpline": "726490",
+			"numicubeds": "783",
+			"numisolationbeds": "20243",
+			"numventilators": "690",
+			"positive": "1407",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/JansamparkMP/status/1251866633360093184/photo/2",
+			"source2": "",
+			"state": "Madhya Pradesh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "24889",
+			"unconfirmed": "7054",
+			"updatedon": "19/04/2020"
 		},
 		{
 			"negative": "",
@@ -3598,7 +3724,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "14837",
@@ -4519,6 +4645,24 @@
 			"updatedon": "18/04/2020"
 		},
 		{
+			"negative": "9629",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "61",
+			"positiveratebytests": "",
+			"source": "https://health.odisha.gov.in/pdf/covid-19-Analysis-Report-19042020.pdf",
+			"source2": "https://health.odisha.gov.in/",
+			"state": "Odisha",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "9690",
+			"unconfirmed": "",
+			"updatedon": "19/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4534,7 +4678,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "20/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "1159",
@@ -4553,6 +4697,24 @@
 			"totaltested": "1207",
 			"unconfirmed": "41",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Puducherry",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "20/04/2020"
 		},
 		{
 			"negative": "1236",
@@ -4769,6 +4931,42 @@
 			"totaltested": "6167",
 			"unconfirmed": "579",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "5949",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "238",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/kbssidhu1961/status/1251866906685878272",
+			"source2": "",
+			"state": "Punjab",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "6607",
+			"unconfirmed": "420",
+			"updatedon": "19/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Punjab",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "11439",
@@ -5005,6 +5203,24 @@
 			"updatedon": "18/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Rajasthan",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "20/04/2020"
+		},
+		{
 			"negative": "2789",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -5145,7 +5361,7 @@
 			"totalpeopleinquarantine": "1870",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "19255",
-			"unconfirmed": "13234",
+			"unconfirmed": "777",
 			"updatedon": "14/04/2020"
 		},
 		{
@@ -5219,6 +5435,24 @@
 			"totaltested": "35036",
 			"unconfirmed": "1433",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "31853",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "29074",
+			"numventilators": "3371",
+			"positive": "1477",
+			"positiveratebytests": "",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-19-04-20-COVID-19-6-PM-1.pdf",
+			"source2": "",
+			"state": "Tamil Nadu",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "40876",
+			"unconfirmed": "2411",
+			"updatedon": "19/04/2020"
 		},
 		{
 			"negative": "335",
@@ -5507,6 +5741,24 @@
 			"totaltested": "28484",
 			"unconfirmed": "248",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "20/04/2020"
 		},
 		{
 			"negative": "554",
@@ -5975,6 +6227,24 @@
 			"totaltested": "4630",
 			"unconfirmed": "",
 			"updatedon": "18/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "36487",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "310",
+			"positiveratebytests": "",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_19.04_.2020_.pdf",
+			"source2": "https://www.mohfw.gov.in/",
+			"state": "West Bengal",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "5045",
+			"unconfirmed": "",
+			"updatedon": "19/04/2020"
 		}
 	]
 }
