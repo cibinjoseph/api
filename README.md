@@ -4,16 +4,16 @@ A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing i
 
 ### JSON
 
-|Status| Data                                                  | URL                                                   | Details |
-|----------------------------------------------------- |----------------------------------------------------- | ----------------------------------------------------- |
-|:green_heart:| Patient Level : Raw Data | https://api.covid19india.org/raw_data.json  | [Link](docs/raw_data.md) |
-|:green_heart:| Patient Level : Deaths and Recoveries | https://api.covid19india.org/deaths_recoveries.json | [Link](docs/deaths_recoveries.md) |
-|:green_heart:| National Level :Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json } | [Link](docs/data.md) |
+| Status      | Data                                                  | URL                                                   | Details |  
+| ----------- | ----------------------------------------------------- | ----------------------------------------------------- | ------- |
+|:green_heart:| Patient Level : Raw Data              | https://api.covid19india.org/raw_data.json                     | [Link](docs/raw_data.md) |
+|:green_heart:| Patient Level : Deaths and Recoveries | https://api.covid19india.org/deaths_recoveries.json            | [Link](docs/deaths_recoveries.md) |
+|:green_heart:| National Level :Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json | [Link](docs/data.md) |
 |:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json | [Link](docs/state_district_wise.md) |
 |:green_heart:| State Level : has district-wise info V2 _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |  [Link](docs/v2_state_district_wise.md) |
-|:green_heart:| State Level : Daily changes | https://api.covid19india.org/states_daily.json  | [Link](docs/states_daily.md) |
-|:green_heart:| Essentials and resources  | https://api.covid19india.org/resources/resources.json  | [Link](docs/resources.md) |
-|:end:| Travel history (No more updated)  | https://api.covid19india.org/travel_history.json  |
+|:green_heart:| State Level : Daily changes           | https://api.covid19india.org/states_daily.json                 | [Link](docs/states_daily.md) |
+|:green_heart:| Essentials and resources              | https://api.covid19india.org/resources/resources.json          | [Link](docs/resources.md) |
+|:end:| Travel history (No more updated)              | https://api.covid19india.org/travel_history.json               |  |
 
 
 ### CSV
