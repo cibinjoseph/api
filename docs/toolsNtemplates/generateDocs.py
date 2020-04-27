@@ -14,7 +14,8 @@ api = {'data.md': 'https://api.covid19india.org/data.json', \
        'raw_data.md': 'https://api.covid19india.org/raw_data.json', \
        'states_daily.md': 'https://api.covid19india.org/states_daily.json', \
        'deaths_recoveries.md': 'https://api.covid19india.org/deaths_recoveries.json', \
-       'resources.md': 'https://api.covid19india.org/resources/resources.json'}
+       'resources.md': 'https://api.covid19india.org/resources/resources.json', \
+       'state_test_data.md': 'https://api.covid19india.org/state_test_data.json'}
 
 header = '## API Documentation  \n\n' + \
         '**Dataset**:  \n' + \
