@@ -6,12 +6,13 @@ A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing i
 
 | Status      | Data                                                  | URL                                                   | Details |  
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------- | ------- |
-|:green_heart:| Patient Level : Raw Data              | https://api.covid19india.org/raw_data.json                     | [Link](docs/raw_data.md) |
+|:broken_heart:| Patient Level : Raw Data              | https://api.covid19india.org/raw_data.json                     | [Link](docs/raw_data.md) |
 |:green_heart:| Patient Level : Deaths and Recoveries | https://api.covid19india.org/deaths_recoveries.json            | [Link](docs/deaths_recoveries.md) |
-|:green_heart:| National Level :Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json | [Link](docs/data.md) |
+|:green_heart:| National Level : Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json | [Link](docs/data.md) |
 |:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json | [Link](docs/state_district_wise.md) |
 |:green_heart:| State Level : has district-wise info V2 _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |  [Link](docs/v2_state_district_wise.md) |
 |:green_heart:| State Level : Daily changes           | https://api.covid19india.org/states_daily.json                 | [Link](docs/states_daily.md) |
+|:green_heart:| State Level : Testing data | https://api.covid19india.org/state_test_data.json                         | [Link](docs/state_test_data.md) |
 |:green_heart:| Essentials and resources              | https://api.covid19india.org/resources/resources.json          | [Link](docs/resources.md) |
 |:end:| Travel history (No more updated)              | https://api.covid19india.org/travel_history.json               |  |
 
@@ -21,7 +22,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 | Data                                                  | URL                                                   |
 | ----------------------------------------------------- | ----------------------------------------------------- |
-| Google sheets in csv                                  | https://api.covid19india.org/csv/                      |
+| Google sheets in CSV                                  | https://api.covid19india.org/csv/                      |
 
 > :rocket: Quick example : Apply the formula `=IMPORTDATA("https://api.covid19india.org/csv/latest/state_wise.csv")` in A1 cell of a Google Sheets to get the state data for analysis :)
 
@@ -41,11 +42,15 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 **Other Trackers/Dashboards**
 - [Tracker](https://covidstat.info/) (by [@skavinvarnan ](https://github.com/skavinvarnan))
 - [Statistics and Predictive Analysis (India)](https://gnsp.in/covid19/) (by [@GnsP](https://github.com/GnsP))
+- [TN Specific](https://covid19trackerbk.netlify.app/) - [Repo](https://github.com/dynamicbalaji/covid19-tracker)
+- [Tracker](https://livecovid.in/) (by [@anamritraj ](https://github.com/anamritraj/livecovid.in-webapp))
+- [India & World Tracker](http://tcovid19.herokuapp.com/) (by [@thecoducer](https://github.com/thecoducer))
+- [COVID-19 Track](http://github.com/adarshbalu/covid_track/) (by [@adarshbalu](https://github.com/adarshbalu))
 
 
 **Telegram Bots**
 - [CoVID19 India Patients Analyzer and Alerts](https://github.com/xsreality/covid19)
-- [CoVID19 Live Stats](https://github.com/Tele-Bots/CovidBot)
+- [CovidBot: CoVID19 Live Stats Chatbot](https://github.com/Tele-Bots/CovidBot) (by [@gurrrung](https://github.com/gurrrung))
 - [covid19indiatracker_bot](https://github.com/cibinjoseph/covid19indiatracker_bot)
 - [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8)
 
@@ -67,8 +72,10 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 
 - Contributions to new data formats are welcome. Please create a GH issue and discuss there before working on the same.
 - Please raise an issue before submitting a PR
-- Report issues with regarding [covid19india.org](covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
+- Report issues with regarding [covid19india.org](https://www.covid19india.org) website in the [react-site repository](https://github.com/covid19india/covid19india-react/issues)
 - DO NOT change anything in `gh-pages` branch directly.They get replaced automatically
 
 ## Notes
 - Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to the exact patient anymore. This will soon be deprecated in a future version of the API.
+
+.
