@@ -24,20 +24,20 @@ CSV files for the same are also available through `api.covid19india.org/csv/late
 
 ### JSON
 
-| Status      | Data                                                  | URL                                                   | Details |  
-| ----------- | ----------------------------------------------------- | ----------------------------------------------------- | ------- |
-|:green_heart:| Patient Level : Raw Data Partition 1 (Till Apr 19)    | https://api.covid19india.org/raw_data1.json           | [Link](docs/raw_data1.md) |
-|:green_heart:| Patient Level : Raw Data Partition 2 (Till Apr 26)    | https://api.covid19india.org/raw_data2.json           | [Link](docs/raw_data2.md) |
-|:green_heart:| Patient Level : Raw Data Partition 3 (Live)           | https://api.covid19india.org/raw_data3.json           | [Link](docs/raw_data3.md) |
-|:green_heart:| National Level : Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json       | [Link](docs/data.md) |
-|:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json                 | [Link](docs/state_district_wise.md) |
-|:green_heart:| State Level : has district-wise info V2 _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |  [Link](docs/v2_state_district_wise.md) |
-|:green_heart:| State Level : Daily changes           | https://api.covid19india.org/states_daily.json                        | [Link](docs/states_daily.md) |
-|:green_heart:| State Level : Testing data | https://api.covid19india.org/state_test_data.json                                | [Link](docs/state_test_data.md) |
-|:green_heart:| Essentials and resources                              | https://api.covid19india.org/resources/resources.json | [Link](docs/resources.md) |
-|:end:| Raw Data (Partition 1 + Partition 2. Frozen after Apr 26th)   | https://api.covid19india.org/raw_data.json            | [Link](docs/raw_data.md) |
-|:end:| Deaths and Recoveries (Frozen after Apr 26th)                 | https://api.covid19india.org/deaths_recoveries.json   | [Link](docs/deaths_recoveries.md) |
-|:end:| Travel history (No more updated)                              | https://api.covid19india.org/travel_history.json      |  |
+| Status      | Data                                                | URL                                                | Details |
+| ----------- | --------------------------------------------------- | -------------------------------------------------- | ------- |
+|:green_heart:| Patient Level : Raw Data Partition 1 <br> (Till April 19) | https://api.covid19india.org/raw_data1.json  | [:page_with_curl:](docs/raw_data1.md) |
+|:green_heart:| Patient Level : Raw Data Partition 2 <br> (Till Apr 26)   | https://api.covid19india.org/raw_data2.json  | [:page_with_curl:](docs/raw_data2.md) |
+|:green_heart:| Patient Level : Raw Data Partition 3 <br> (Live)          | https://api.covid19india.org/raw_data3.json  | [:page_with_curl:](docs/raw_data3.md) |
+|:green_heart:| National Level : Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json  | [:page_with_curl:](docs/data.md) |
+|:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json    | [:page_with_curl:](docs/state_district_wise.md) |
+|:green_heart:| State Level : has district-wise info V2 <br> _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |  [:page_with_curl:](docs/v2_state_district_wise.md) |
+|:green_heart:| State Level : Daily changes           | https://api.covid19india.org/states_daily.json                  | [:page_with_curl:](docs/states_daily.md) |
+|:green_heart:| State Level : Testing data | https://api.covid19india.org/state_test_data.json                       | [:page_with_curl:](docs/state_test_data.md) |
+|:green_heart:| Essentials and resources                            | https://api.covid19india.org/resources/resources.json | [:page_with_curl:](docs/resources.md) |
+|:end:| Raw Data (Partition 1 + Partition 2. Frozen after Apr 26th) | https://api.covid19india.org/raw_data.json            | [:page_with_curl:](docs/raw_data.md) |
+|:end:| Deaths and Recoveries <br> (Frozen after Apr 26th)   | https://api.covid19india.org/deaths_recoveries.json | [:page_with_curl:](docs/deaths_recoveries.md) |
+|:end:| Travel history (No more updated)                            | https://api.covid19india.org/travel_history.json    |  |
 
 
 ### CSV
